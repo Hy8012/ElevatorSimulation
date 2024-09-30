@@ -1,0 +1,29 @@
+
+
+Processing Reference Log File: Mv1FCallPri7.log
+Checking Test Log File: Mv1FCallPri7.log
+Capacity Check PASSED
+Floor Ticks Check PASSED
+Door Ticks Check PASSED
+Pass Per Tick Check PASSED
+Initial State Check PASSED
+Initial Floor Check PASSED
+Checking Calls:
+All Calls Matched - PASS
+Checking States:
+Number of States mismatches between your log file and the reference log file
+The last matching States were at time 51
+State check FAILED
+Checking Boards:
+Number of Boards mismatches between your log file and the reference log file
+The last matching Boards were at time 13
+Board check FAILED
+Checking Arrivals:
+Number of Arrivals mismatches between your log file and the reference log file
+The last matching Arrivals were at time 33
+Arrivals check FAILED
+Checking Skips:
+All Skips Matched - PASS
+Checking GiveUps:
+All GiveUps Matched - PASS
+End of Simulation Check FAILED
