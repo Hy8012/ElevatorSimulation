@@ -36,6 +36,14 @@ Final Design of GUI
 <p align="center"/>
   <image src="https://github.com/Hy8012/ElevatorSimulation/blob/main/md_files/JUnit_CSV1_test.png?raw=true" width="1170" height="1360"/>
 </p>
+    
+# Final Elevator Simulation:
+
+Fully interactive, user-friendly, GUI, that correctly shows the Elevator Simulation.
+
+Added toggleable logging option, printing out detailed statistics every time an action occurs.
+
+All 3 Elevator Config simulations fully passed (Used to recommend the best elevator to the architect).
 
 
 
