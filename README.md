@@ -76,7 +76,7 @@ During the second week of the project, our group finished implementing multiple 
 
 ##### Week 3 Reflection
 
-Within the last week, the team management has suffered, therefore, I plan on stepping up to the role of leadership and pushing the deadlines that we are currently a week behind in. Our goal this week until the end of the project is to complete the project in multiple stages. The first stage is successfully being able to compile the code, passing the JUnit's, and then implementing the GUI.
+Within the last week, the team management has suffered, therefore, I plan on stepping up to the role of leadership and pushing the deadlines that we are currently a week behind in. Our goal this week until the end of the project is to complete the project in multiple stages. The first stage is successfully being able to compile the code, passing the JUnits, and then implementing the GUI.
 
 ##### Week 4 Reflection
 
@@ -87,27 +87,12 @@ This week's productivity was significantly better compared to the last 3 weeks o
 Prompts:
 1. What did you learn about programming collaboratively during this project?
 
-
+What I learned about programming in a collaborative environment is that it is a lot more challenging than what I initially thought. I prefer 'challenging' over 'difficult', because it is not difficult, rather you run into challenges regarding communication, merging, bugs, and discussions.
 
 2. What did you learn about yourself (from a programming perspective) during this project? 
 
-
+What I learned about myself from a programming perspective is that I am capable of writing, reading, and most importantly understanding significantly more complex code than I thought I was able to.
 
 3. What worked well and what would you do differently on your next major assignment?
 
-
-
-"1. What I learned about programming collaboratively is that it is much more complex than what first meets the eye. Constant communication, arguing, and discussions can take a huge mental toll and makes working in a group much more complicated. However, in turn, it made the project significantly more achievable. 
-
-2. What I learned about myself from a programming perspective during this project was that when given the opportunity, I can write and read blocks of code that are significantly more complex than what I thought I was able of producing.
-
-3. What worked well was getting the project done, however, what I would do differently on the next major assignment is overall team management. The team management in our group was a complete disaster, and hopefully, a lesson that was learned for all."
-
-
-
-
-
-
-
-
-
+What worked really well with this project was understanding the project at a high-level, and getting the project done at the deadline. What I would do differently on my next major assignment, is team managment. Team management is crucial to the structure and success of an overall project.
